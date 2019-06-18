@@ -19,8 +19,8 @@ x infinite recursion (no base case)
 x forgetting quotes in strings, like a = mystring
 
 * shadowed variables
-* slice bounds (implement strstr?)
-* index out of bound error
+x slice bounds (implement strstr?)
+x index out of bound error
 
 Class:
 
