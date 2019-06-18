@@ -1,25 +1,26 @@
 Python errors:
 
-* shadowed variables
-* forgetting len() in range
-* missing return
-* missing base case in recursion
-* missing entry point in program
+x forgetting len() in range
+x missing return
+x missing base case in recursion
+x missing entry point in program
 * missing imports
 * forgetting lists are references
-* trying to modify a string (a[0] = 'c' is not valid for strings)
-* index out of bound error
+x trying to modify a string (a[0] = 'c' is not valid for strings)
 * off by one errors
-* accessing dict key before it's created
+x accessing dict key before it's created
 * deleting key from dict during iteration
 * true/false (instead of True/False)
-* instantiating classes (vs. calling class methods)
+x instantiating classes (vs. calling class methods)
 * missing if/else clauses that don't cover all cases
-* missing / extra parameters
+x missing / extra parameters
 * double equals vs equals
-* infinite recursion (no base case)
-* forgetting quotes in strings, like a = mystring
+x infinite recursion (no base case)
+x forgetting quotes in strings, like a = mystring
+
+* shadowed variables
 * slice bounds (implement strstr?)
+* index out of bound error
 
 Class:
 
