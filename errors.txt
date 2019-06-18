@@ -1,0 +1,38 @@
+Python errors:
+
+* shadowed variables
+* forgetting len() in range
+* missing return
+* missing base case in recursion
+* missing entry point in program
+* missing imports
+* forgetting lists are references
+* trying to modify a string (a[0] = 'c' is not valid for strings)
+* index out of bound error
+* off by one errors
+* accessing dict key before it's created
+* deleting key from dict during iteration
+* true/false (instead of True/False)
+* instantiating classes (vs. calling class methods)
+* missing if/else clauses that don't cover all cases
+* missing / extra parameters
+* double equals vs equals
+* infinite recursion (no base case)
+* forgetting quotes in strings, like a = mystring
+* slice bounds (implement strstr?)
+
+Class:
+
+* class (and using self properly: in definition and calling site)
+* class inheritance (properly inheriting)
+* missing super() calls in __init__
+
+
+Example programs to fix:
+
+* checking if number is prime
+* checking palindrome
+* sum numbers in array
+* find min number in array
+* two sum
+* 
