@@ -24,7 +24,7 @@ x forgetting quotes in strings, like a = mystring
 
 Class:
 
-* class (and using self properly: in definition and calling site)
+x class (and using self properly: in definition and calling site)
 * class inheritance (properly inheriting)
 * missing super() calls in __init__
 
@@ -32,8 +32,7 @@ Class:
 Example programs to fix:
 
 * checking if number is prime
-* checking palindrome
-* sum numbers in array
-* find min number in array
+x checking palindrome
+x sum numbers in array
+x find max number in array
 * two sum
-* 

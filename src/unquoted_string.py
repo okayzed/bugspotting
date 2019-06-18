@@ -5,5 +5,5 @@ def has_needle(s):
     return s.find(needle) != -1
 
 
-    
-
+print has_needle("foobar")
+print has_needle("has a needle")
