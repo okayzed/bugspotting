@@ -5,7 +5,7 @@ x missing return
 x missing base case in recursion
 x missing entry point in program
 * missing imports
-* forgetting lists are references
+x forgetting lists are references
 x trying to modify a string (a[0] = 'c' is not valid for strings)
 * off by one errors
 x accessing dict key before it's created

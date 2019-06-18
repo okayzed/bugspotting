@@ -13,3 +13,5 @@ def generate_all_words(s):
         ret.append(c)
 
     return ret
+
+generate_all_words("abcd")
