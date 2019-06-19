@@ -44,6 +44,8 @@ for f in src/*.py; do
     echo "" >> ${MD_FILE}
     echo "\\End{minipage}" >> ${MD_FILE}
     echo "" >> ${MD_FILE}
+    echo "\\mbox{}" >> ${MD_FILE}
+    echo "" >> ${MD_FILE}
 
     ((N++))
   fi
