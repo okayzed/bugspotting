@@ -7,14 +7,14 @@ x missing entry point in program
 * missing imports
 x forgetting lists are references
 x trying to modify a string (a[0] = 'c' is not valid for strings)
-* off by one errors
+x off by one errors
 x accessing dict key before it's created
 * deleting key from dict during iteration
-* true/false (instead of True/False)
+x true/false (instead of True/False)
 x instantiating classes (vs. calling class methods)
 * missing if/else clauses that don't cover all cases
 x missing / extra parameters
-* double equals vs equals
+x double equals vs equals
 x infinite recursion (no base case)
 x forgetting quotes in strings, like a = mystring
 
